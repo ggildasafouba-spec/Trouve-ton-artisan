@@ -1,0 +1,86 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f1f8fc;
+  color: #384050;
+}
+
+a {
+  color: #0074c7;
+}
+
+.site-header {
+  background: #ffffff;
+  border-bottom: 1px solid #dfe8ee;
+}
+
+.brand {
+  display: flex;
+  flex-direction: column;
+}
+
+.brand-title {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #384050;
+}
+
+.brand-subtitle {
+  font-size: 1rem;
+  color: #0074c7;
+}
+
+.nav-link-custom {
+  color: #00497c;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.nav-link-custom:hover {
+  color: #0074c7;
+}
+
+.site-footer {
+  background: #384050;
+  color: white;
+}
+
+.site-footer a {
+  color: #82b864;
+  text-decoration: none;
+}
+
+.hero {
+  background: linear-gradient(135deg, #0074c7, #00497c);
+  color: white;
+}
+
+.step-card {
+  background: white;
+  padding: 1.25rem;
+  border-radius: 1rem;
+  height: 100%;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.08);
+}
+
+.step-number {
+  display: inline-flex;
+  width: 42px;
+  height: 42px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: #cd2c2e;
+  color: white;
+  font-weight: 700;
+  margin-bottom: 0.75rem;
+}
+
+.artisan-card img {
+  height: 220px;
+  object-fit: cover;
+}
+
+.stars {
+  color: #82b864;
+  margin-bottom: 0.75rem;
+}

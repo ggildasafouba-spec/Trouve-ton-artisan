@@ -1,0 +1,29 @@
+Maquettes à faire dans Figma :
+
+1. Mobile
+- Page accueil
+- Page catégorie
+- Page fiche artisan
+- Page 404
+
+2. Tablette
+- Page accueil
+- Page catégorie
+- Page fiche artisan
+
+3. Desktop
+- Page accueil
+- Page catégorie
+- Page fiche artisan
+
+Éléments obligatoires :
+- header identique
+- footer identique
+- menu catégories
+- barre de recherche
+- bloc "Comment trouver mon artisan ?"
+- 3 artisans du mois
+- cards artisans
+- fiche artisan complète
+- formulaire contact
+- pages légales avec texte "Page en construction"
