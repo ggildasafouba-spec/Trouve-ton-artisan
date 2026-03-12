@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import api from "../api/api";
-import Stars from "../components/Stars.jsx";
+import Stars from "./components/Stars.jsx";
 
 function ArtisanPage() {
   const { id } = useParams();

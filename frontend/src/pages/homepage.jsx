@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import api from "../api/api.js";
-import ArtisanCard from "../components/ArtisanCard.jsx";
+import ArtisanCard from "./components/ArtisanCard.jsx";
 
 function HomePage() {
   const [topArtisans, setTopArtisans] = useState([]);
