@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import api from "../api/api";
-import Searchbar from "./searchbar.jsx";
+import Searchbar from "./searchbar";
 
 function Header() {
   const [categories, setCategories] = useState([]);

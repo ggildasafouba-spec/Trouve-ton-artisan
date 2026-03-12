@@ -1,12 +1,12 @@
 import { Routes, Route } from "react-router-dom";
 
-import Layout from "./components/layout.jsx";
+import Layout from "./components/Layout";
 
-import HomePage from "./pages/homePage.jsx";
-import CategoryPage from "./pages/categorypage.jsx";
-import ArtisanPage from "./pages/artisanpage.jsx";
-import LegalPage from "./pages/legalpage.jsx";
-import NotFoundPage from "./pages/notfoundpage.jsx";
+import HomePage from "./pages/HomePage";
+import CategoryPage from "./pages/categorypage";
+import ArtisanPage from "./pages/artisanpage";
+import LegalPage from "./pages/legalpage";
+import NotFoundPage from "./pages/notfoundpage";
 
 function App() {
   return (

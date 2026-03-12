@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { useParams, useSearchParams } from "react-router-dom";
 import api from "../api/api";
-import ArtisanCard from "../components/artisanCard.jsx";
+import ArtisanCard from "../components/artisanCard";
 
 function CategoryPage() {
   const { slug } = useParams();

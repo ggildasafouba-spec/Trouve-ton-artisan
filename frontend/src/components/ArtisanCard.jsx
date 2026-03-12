@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import Stars from "./stars.jsx";
+import Stars from "./stars";
 
 function ArtisanCard({ artisan }) {
   return (
